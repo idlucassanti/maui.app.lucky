@@ -12,7 +12,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>AppLuckyNumbers</ApplicationTitle>
+		<ApplicationTitle>Lucky Numbers</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.appluckynumbers</ApplicationId>
